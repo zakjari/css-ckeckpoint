@@ -1,0 +1,62 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:opsz,wght@8..144,200&family=Roboto:ital,wght@0,400;1,300&display=swap');
+
+
+
+.navbare {
+    display: flex;
+    justify-content: center;
+    background-color: #000; 
+
+}
+
+.navbare ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.navbare li {
+    margin: 0 15px;
+}
+.navbare a {
+    color: #faa303; 
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.navbare a:hover {
+    text-decoration: underline;
+}
+
+h1{
+    background-color: black;
+    color: #faa303;
+    text-align: center;
+    font-size:medium;
+width: fit-content; 
+/* margin: auto; */
+/* margin-top: 10px;    */
+/* margin-bottom: 30px; */
+margin: 10px auto;
+}
+h2{
+    text-align: center;
+    color: #faa303;
+    background-color: black;
+}
+table{
+    margin:  auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+strong{
+    display: block;
+    text-align: center;
+    /* margin-top: 10px;
+    margin-bottom: 30px ; */
+}
+
+
